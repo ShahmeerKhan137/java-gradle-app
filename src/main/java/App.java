@@ -1,5 +1,5 @@
 public class App {
     public static void main(String[] args) {
-        System.out.println("Hello Gradle! 22 jun Monday");
+        System.out.println("Hello Gradle! 22 jun Monday-build");
     }
 }
